@@ -4,22 +4,24 @@
 <h1 align="center">💻 Marco Polato 💻</h1>
 <h3 align="center">Web Developer from Italy</h3>
 
-###
-
+<!-- Social badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/marco-polato-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/marco-polato-dev/">
     <img src="https://custom-icon-badges.demolab.com/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin-logo-123&logoColor=white" height="25" alt="linkedin logo"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/marco-polato-dev/" target="_blank">
+  <a href="https://www.instagram.com/marcopolato_/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+
+  <a href="mailto:marco.polato8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="instagram logo"  />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=marcopolato&style=for-the-badge&color=green" height="25" alt="visit counter" />
 </div>
 
-###
-
+<!-- About me -->
 <h3 align="left">👩‍💻 About Me:</h3>
 
 - 👨‍💻 All of my projects are available at my [Github profile](https://github.com/marcopolato)
@@ -28,8 +30,8 @@
 
 - ⚡ Fun fact **I'm a Pokemon fan and card collector**
 
-###
 
+<!-- Tech -->
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="js" width="40" height="40"/>
@@ -53,9 +55,8 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="canva" width="40" height="40"/>
 </p>
 
-###
-###
 
+<!-- Stats -->
 <h3 align="left">🔥 My Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcopolato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
