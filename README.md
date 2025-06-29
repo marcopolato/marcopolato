@@ -1,7 +1,25 @@
-<h1 align="center">Hi 👋, I'm Marco Polato</h1>
-<h3 align="center">Web Developer from Italy</h3>
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYwYnRtNzU5ejBheGtnYXY3YzFhcDV4cDJlajNqNXdwbzBxMTlrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+<h1 align="center">🧑🏻‍💻 Marco Polato 💻</h1>
+`Web Developer from Italy`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcopolato&label=Profile%20views&color=0e75b6&style=flat" alt="marcopolato" /> </p>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marco-polato-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/>
+  </a>
+  
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcopolato&style=for-the-badge&color=orange" />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcopolato" alt="marcopolato" /></a> </p>
 
