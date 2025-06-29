@@ -22,9 +22,9 @@
 
 <h3 align="left">👩‍💻 About Me:</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/marcopolato](https://github.com/marcopolato)
+- 👨‍💻 All of my projects are available at my [Github profile](https://github.com/marcopolato)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m1uPSsZb2fKEHg0MsLGUgpAwuFdXOj9Y/view?usp=sharing](https://drive.google.com/file/d/1m1uPSsZb2fKEHg0MsLGUgpAwuFdXOj9Y/view?usp=sharing)
+- 📄 Know about my experiences. See my [Curriculum Vitae](https://drive.google.com/file/d/1m1uPSsZb2fKEHg0MsLGUgpAwuFdXOj9Y/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Pokemon fan and card collector**
 
